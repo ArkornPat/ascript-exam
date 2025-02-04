@@ -1,0 +1,11 @@
+[
+  {
+    "email": "exam@mail.com",
+    "password": "123456",
+    "confirmPassword": "123456",
+    "fullName": "john",
+    "phone": "0812345678",
+    "address": "Bangkok",
+    "gender": "male"
+  }
+]
